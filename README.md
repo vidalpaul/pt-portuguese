@@ -1,2 +1,2 @@
 # pt-portuguese
-Portuguese / Brazilian translation of the Solidity docs
+Portuguese translation of the Solidity docs
